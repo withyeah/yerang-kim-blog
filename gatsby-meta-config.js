@@ -2,11 +2,11 @@ module.exports = {
   title: `yerang.kim`,
   description: `Blog posted about ...`,
   author: `Yerang Kim`,
-  introduction: `I explain with words and code. I explain with words and code. I explain with words and code.`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  introduction: `마테차 처돌이`,
+  siteUrl: `https://yerangkim.netlify.com`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
-    github: ``, // Your GitHub account
+    github: `withyeah`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
   },

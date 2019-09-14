@@ -1,6 +1,7 @@
 import React from 'react'
 import { StaticQuery, graphql, Link } from 'gatsby'
 import Image from 'gatsby-image'
+// import profileGIF from '../profile.gif'
 
 import './index.scss'
 
@@ -14,14 +15,42 @@ export const Bio = () => (
         <div className="bio">
           <div className="author">
             <div className="author-description">
-              <Image
+              {/* <Image
                 className="author-image"
                 fixed={data.avatar.childImageSharp.fixed}
+                // src="http://gph.is/2xZrgId"
                 alt={author}
                 style={{
                   borderRadius: `100%`,
                 }}
+              /> */}
+              {/* <img
+                className="author-image"
+                src="profile.gif"
+                alt="{author}"
+                style={{
+                  borderRadius: `100%`,
+                }}
+              /> */}
+              <img
+                src="https://user-images.githubusercontent.com/45819975/64905994-32548700-d71b-11e9-82de-572dd6473537.GIF"
+                alt="profile"
+                width="100px"
+                height="100px"
+                className="author-image"
+                style={{
+                  borderRadius: `100%`,
+                }}
               />
+              {/* <iframe
+                src="https://user-images.githubusercontent.com/45819975/64905994-32548700-d71b-11e9-82de-572dd6473537.GIF"
+                width="100px"
+                height="100px"
+                align="center"
+                frameBorder="0"
+                padding-top="15px"
+              ></iframe> */}
+
               <div className="author-name">
                 <span className="author-name-prefix">Written by</span>
                 <Link to={'/about'} className="author-name-content">

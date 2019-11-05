@@ -1,5 +1,5 @@
 ---
-title: [Django] CBVs vs FBVs
+title: '[Django] CBVs vs FBVs'
 date: 2019-11-05 20:11:56
 category: django
 ---

@@ -2,8 +2,8 @@ module.exports = {
   title: `yerang.kim`,
   description: `yerang devlog`,
   author: `Yerang Kim`,
-  introduction: `캣독 처돌이 바닐라 크림 프라푸치노 그란데 사이즈 얼음 많이 바닐라 시럽 두 펌프 빼고 헤이즐넛 시럽 두 펌프 추가요 휘핑크림은 빼주세요`,
-  siteUrl: `https://yerangkim.netlify.com`, // Your blog site url
+  introduction: `Backend Developer at XAI(CRE Korea). I love Python and Django💞 `,
+  siteUrl: `http://yerang.kim`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `withyeah`, // Your GitHub account

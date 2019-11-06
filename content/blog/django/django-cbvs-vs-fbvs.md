@@ -5,9 +5,11 @@ category: django
 ---
 
 <br/>
+
 > ##### The most import takeaway from the research
 >
 > ###CBVs and FBVs don't replace each other
+> 
 <br/>
 ---
 
@@ -24,7 +26,7 @@ category: django
 |       **Extendability**       |            Easy using Mixins            |                        Hard                        |
 <br/>
 ---
-<br/>
+
 ## Conclusion
 
 It's hard to say which is better. It highly depends on the context.

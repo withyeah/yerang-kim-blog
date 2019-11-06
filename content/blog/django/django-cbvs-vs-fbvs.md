@@ -33,3 +33,7 @@ If you need to implement let's say a list view, it'd be better with CBVs where y
 
 On the other hand if you want to make a complicated operation or handle multiple forms at the same time, FBVs will be better.
 <br/>
+<br/>
+`Reference`<br/>
+[Django : Class Based Views vs Function Based Views](https://medium.com/@ksarthak4ever/django-class-based-views-vs-function-based-view-e74b47b2e41b)
+<br/>

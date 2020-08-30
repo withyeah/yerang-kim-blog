@@ -15,6 +15,7 @@ export const Bio = () => (
           <div className="author">
             <div className="author-description">
               <Image
+                src="https://user-images.githubusercontent.com/45819975/64905994-32548700-d71b-11e9-82de-572dd6473537.GIF"
                 className="author-image"
                 fixed={data.avatar.childImageSharp.fixed}
                 alt={author}

@@ -2,7 +2,7 @@ module.exports = {
   title: `yerang.kim`,
   description: `I write codes and words.`,
   author: `Yerang Kim`,
-  introduction: `Backend Developer at XAI(CRE Korea). Also known as Alex Gim. Love 3000 for Python and Django💞 🇰🇷Korean, 🇬🇧English and little bit of 🇯🇵Japanese.`,
+  introduction: `Python, iOS developer. Also known as Alex. 🇰🇷Korean, 🇬🇧English and little bit of 🇯🇵Japanese.`,
   siteUrl: `https://yerang.kim`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account

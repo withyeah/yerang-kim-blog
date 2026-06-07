@@ -3,7 +3,7 @@ title: "[DevRel Uni] Wrapping Up Cohort 7"
 date: 20226-06-07 11:04:74
 category: development
 thumbnail: { thumbnailSrc }
-draft: true
+draft: false
 ---
 
 The key takeaway from DevRel Uni Cohort 7 is that 'AI lets human be more human'. Thus our strategy would be to develop our own expertise while branding ourselves as a human. I used to consider AI as a competitive counterpart regarding mass layoff. Even though I believed there are human edge that is original exclusively to humans, anxiety of getting replaced by AI was there.

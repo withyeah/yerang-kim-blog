@@ -1,6 +1,6 @@
 ---
 title: "[DevRel Uni] Wrapping Up Cohort 7"
-date: 20226-06-07 11:04:74
+date: 2026-06-07 11:04:74
 category: development
 thumbnail: { thumbnailSrc }
 draft: false

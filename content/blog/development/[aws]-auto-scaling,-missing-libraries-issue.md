@@ -1,8 +1,8 @@
 ---
 title: "[AWS] Auto-scaling, missing libraries issue"
-date: 2021-04-05 16:04:74
+date: 2021-04-05 16:04:00
 category: development
-thumbnail: { thumbnailSrc }
+thumbnail: "thumbnailSrc"
 draft: false
 ---
 

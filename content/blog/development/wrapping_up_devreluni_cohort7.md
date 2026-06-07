@@ -1,6 +1,6 @@
 ---
 title: "DevRel Uni - Wrapping Up Cohort 7"
-date: 2026-06-06 11:04:00
+date: 2026-06-04
 category: development
 draft: false
 ---
